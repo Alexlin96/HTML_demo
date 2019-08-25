@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+        #box{
+            animation: test 0s forwards; /* forwards 填充模式  css动画的优先级比！important还高 */
+            width: 400px !important;
+        }
+        @keyframes test{
+            0%{width: 300px}
+            100%{width: 300px}
+        }
+    </style>
+</head>
+<body>
+    <div id="box" style="width:500px;height:300px;background:red;"></div>
+</body>
+</html>
