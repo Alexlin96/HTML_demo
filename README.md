@@ -6,6 +6,6 @@
 
 我是alex
 
-​我是git
+​我不是git	
 
 我真的没用soucetree
