@@ -7,3 +7,5 @@
 我是alex
 
 ​我不是git	
+
+我用soucetree
