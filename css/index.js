@@ -1,4 +1,4 @@
-//闭包实现变量私有化
+//闭包实现变量私有化 dev
 function Person(params) {
     let name = 'alex';
     this.getName = () =>{
