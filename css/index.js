@@ -1,4 +1,4 @@
-//闭包实现变量私有化 dev
+//闭包实现变量私有化 linzhiqiang
 function Person(params) {
     let name = 'alex';
     this.getName = () =>{
